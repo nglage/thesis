@@ -24,7 +24,8 @@ cp paths.py.template paths.py
 ```
 
 3. Obtain Reddit data from the Academic Torrents archive of historical 
-Reddit dumps: 
+Reddit dumps:
+
 https://academictorrents.com/details/3e3f64dee22dc304cdd2546254ca1f8e8ae542b4
 
 Download the relevant subreddits (listed in `config/settings.py`) and place them in the directory specified in `paths.py`.
