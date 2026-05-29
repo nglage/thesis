@@ -1,0 +1,20 @@
+﻿Predictor,β,SE,p
+Intercept,+0.6344***,(0.0259),<0.001
+Forecast wind change (z),+0.0211*,(0.0084),0.012
+Current wind change (z),-0.0067,(0.0103),0.514
+"Forecast wind change, lag1 (z)",+0.0194**,(0.0075),0.010
+"Current wind change, lag1 (z)",-0.0113,(0.0089),0.202
+New hurricane warning†,-0.0094,(0.0204),0.647
+"Warning issued, lag1†",-0.0457*,(0.0189),0.016
+New hurricane watch,+0.0210*,(0.0103),0.042
+Storm category (z),+0.0057,(0.0065),0.381
+Log post volume,-0.0080,(0.0055),0.143
+Hour of day (sin),+0.0114.,(0.0064),0.072
+Hour of day (cos),-0.0055,(0.0057),0.329
+--- Storm FEs ---,,,
+Storm category (z),+0.0057,(0.0065),0.381
+storm_Harvey,-0.0765*,(0.0361),0.034
+storm_Ian,+0.0212.,(0.0126),0.094
+storm_Ida,-0.0015,(0.0158),0.926
+storm_Irma,+0.0337**,(0.0112),0.003
+storm_Milton,-0.0394*,(0.0169),0.020

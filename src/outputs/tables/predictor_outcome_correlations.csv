@@ -1,0 +1,13 @@
+﻿predictor,r,p,sig
+delta_wind_kt_z,0.195,0.0,***
+hour_sin,0.173,0.0,***
+delta_wind_lag1_z,0.161,0.0,***
+delta_forecast_1_wind_z,0.155,0.0,***
+delta_fc_lag1_z,0.15,0.0,***
+new_hurricane_watch,0.137,0.0,***
+hour_cos,-0.125,0.0,***
+max_wind_kt_z,0.088,0.0022,**
+storm_category_z,0.082,0.0043,**
+log_n_posts,-0.056,0.0529,.
+warning_lag1,-0.051,0.0765,.
+new_hurricane_warning,-0.002,0.9463,

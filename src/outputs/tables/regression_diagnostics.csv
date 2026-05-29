@@ -1,0 +1,4 @@
+﻿test,statistic,p_value,null,result
+Breusch-Pagan,191.2359,0.0,Homoscedasticity,Reject H0 (heteroscedastic)
+Jarque-Bera,342.9947,0.0,Normality of residuals,Reject H0 (non-normal)
+Durbin-Watson,1.4671,,No autocorrelation (DW ≈ 2),Possible positive autocorrelation

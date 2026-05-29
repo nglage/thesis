@@ -1,0 +1,13 @@
+﻿variable,VIF
+max_wind_kt_z,28.454
+storm_category_z,28.181
+new_hurricane_warning,6.592
+warning_lag1,6.403
+delta_wind_kt_z,4.668
+delta_fc_lag1_z,4.483
+delta_forecast_1_wind_z,4.478
+delta_wind_lag1_z,4.155
+log_n_posts,2.308
+new_hurricane_watch,1.442
+hour_sin,1.302
+hour_cos,1.098

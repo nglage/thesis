@@ -1,0 +1,14 @@
+﻿Predictor,β,SE,p
+Intercept,+0.3175***,(0.0017),<0.001
+Forecast wind change (z),+0.0036*,(0.0018),0.044
+Current wind change (z),+0.0035,(0.0022),0.106
+Storm category (z),-0.0049***,(0.0011),<0.001
+Hour of day (sin),+0.0095***,(0.0013),<0.001
+Hour of day (cos),-0.0060***,(0.0012),<0.001
+--- Storm FEs ---,,,
+Storm category (z),-0.0049***,(0.0011),<0.001
+storm_Harvey,-0.0302***,(0.0086),<0.001
+storm_Ian,+0.0030,(0.0029),0.304
+storm_Ida,-0.0053,(0.0040),0.184
+storm_Irma,+0.0152***,(0.0024),<0.001
+storm_Milton,-0.0032,(0.0024),0.188

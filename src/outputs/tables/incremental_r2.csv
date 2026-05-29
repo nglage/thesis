@@ -1,0 +1,10 @@
+﻿label,outcome,r2_controls,r2_full,r2_incremental,joint_chi2,joint_p
+Primary,mean_rpi_composite,0.1306,0.1917,0.0611,58.997,0.0
+Robustness A,mean_rpi_composite_full,0.1097,0.1647,0.055,38.282,0.0
+Robustness B,mean_rpi_composite,0.1298,0.1922,0.0624,57.66,0.0
+RPI_composite (revised),mean_rpi_composite,0.1306,0.1917,0.0611,58.997,0.0
+RPI_composite (full),mean_rpi_composite_full,0.1097,0.1647,0.055,38.282,0.0
+RPI_A (fear),mean_rpi_a,0.046,0.0748,0.0288,35.51,0.0
+p_likelihood (standalone),mean_p_likelihood,0.1461,0.2474,0.1013,77.068,0.0
+p_dismissive (standalone),mean_p_dismissive,0.0835,0.1313,0.0478,22.668,0.0019
+Proximity primary,mean_rpi_composite,0.0719,0.1182,0.0464,18.175,0.0112

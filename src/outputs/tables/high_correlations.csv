@@ -1,0 +1,5 @@
+﻿var1,var2,r
+max_wind_kt_z,storm_category_z,0.98
+delta_wind_kt_z,delta_forecast_1_wind_z,0.854
+delta_wind_lag1_z,delta_fc_lag1_z,0.854
+new_hurricane_warning,warning_lag1,0.908
